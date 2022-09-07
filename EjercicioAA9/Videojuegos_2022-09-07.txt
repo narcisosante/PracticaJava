@@ -1,0 +1,6 @@
+Videojuegos [nombre=NieR Replicant ver.1.22474487139, ventas=60000.0, precio=59.99, montoTotal=3599400.0]
+Videojuegos [nombre=NieR Replicant ver.1.22474487139, ventas=60000.0, precio=59.99, montoTotal=3599400.0]
+Videojuegos [nombre=FINAL FANTASY XIV Online, ventas=360000.0, precio=14.99, montoTotal=5396400.0]
+Videojuegos [nombre=KINGDOM HEARTS III, ventas=20000.0, precio=69.99, montoTotal=1399800.0]
+Videojuegos [nombre=Voice of Cards: The Isle Dragon Roars, ventas=6000.0, precio=29.99, montoTotal=179940.0]
+Videojuegos [nombre=Triangle Strategy, ventas=60000.0, precio=49.99, montoTotal=2999400.0]
