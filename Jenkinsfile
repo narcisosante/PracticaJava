@@ -18,7 +18,7 @@ pipeline {
            script{
                
                if(diasSemana[dia] == "Jueves"){
-                    println " ¿Qué es un terapeuta? – 1024 Gigapeutas."
+                    println " ¿Que es un terapeuta? – 1024 Gigapeutas."
                }else{
                     println "error"
                }
@@ -44,7 +44,7 @@ pipeline {
            script{
               
                if(diasSemana[dia] == "Lunes"){
-                    println "¿Cómo se llama el peor jugador japonés? Nikito Nitoko."
+                    println "¿Como se llama el peor jugador japones? Nikito Nitoko."
                }else{
                     println "error" 
                     }
@@ -57,7 +57,7 @@ pipeline {
            script{
               
                if(diasSemana[dia] == "Martes"){
-                    println "¿En qué se parece un mouse a un político? En que si no lo presionas y arrastras no funcionan."
+                    println "¿En que se parece un mouse a un politico? En que si no lo presionas y arrastras no funcionan."
                }else{
                     println "error" 
                     }
@@ -70,7 +70,7 @@ pipeline {
            script{
               
                if(diasSemana[dia] == "Miercoles"){
-                    println "Doctor, doctor, ¿qué tal ha salido la operación? -¡Pero qué doctor ni que ocho cuartos! ¡Mire Ud. yo soy San Pedro!"
+                    println "Doctor, doctor, ¿que tal ha salido la operación? -¡Pero que doctor ni que ocho cuartos! ¡Mire Ud. yo soy San Pedro!"
                }else{
                     println "error" 
                     }
