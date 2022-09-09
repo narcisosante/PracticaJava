@@ -1,0 +1,9 @@
+La temperatura máxima para hoy es: 37
+Hoy se ha producido: 
+[Chocolate [tipo=Blanco, cantidad producida=1000]
+, Chocolate [tipo=Negro, cantidad producida=1500]
+, Chocolate [tipo=Negro, cantidad producida=1500]
+, Chocolate [tipo=Negro, cantidad producida=1500]
+, Chocolate [tipo=Negro, cantidad producida=1500]
+, Chocolate [tipo=Negro, cantidad producida=1500]
+]
