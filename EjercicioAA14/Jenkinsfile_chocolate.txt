@@ -8,4 +8,3 @@ echo 'Chocolate [tipo=Blanco, cantidad producida=1000] Chocolate [tipo=Negro, ca
 } 
 } 
 } 
-} 
