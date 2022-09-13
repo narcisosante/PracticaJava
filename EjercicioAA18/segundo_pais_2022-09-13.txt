@@ -1,0 +1,7 @@
+PAIS: España
+Capital: Madrid
+Continente: Europa
+Habitantes: 47350000
+Clima Predominante: Calido
+Salario Minimo: 1050
+PIB: 4.735105E7
