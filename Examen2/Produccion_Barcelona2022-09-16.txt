@@ -1,0 +1,7 @@
+La temperatura máxima para hoy en Barcelona es: 26
+Hoy se ha producido: 
+[Producto [nombre=Zapatillas, generado=100, costo=1000, esperado=15000, estimado=14000]
+, Producto [nombre=Remeras, generado=50, costo=500, esperado=7000, estimado=6500]
+, Producto [nombre=Pantalones, generado=25, costo=750, esperado=18000, estimado=17250]
+, Producto [nombre=Cinturones, generado=10, costo=500, esperado=5000, estimado=4500]
+]
